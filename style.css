@@ -105,17 +105,17 @@ table td {
 /* Estilo com letras */
 .attendance-circle.falta::after {
     content: "F";
-    color: #a70b0b;
+    color: #000000;
 }
 
 .attendance-circle.saiu::after {
     content: "S";
-    color: #2c18e1;
+    color: #000000;
 }
 
 .attendance-circle.entrou::after {
     content: "E";
-    color: #0ce517;
+    color: #000000;
 }
 
 .attendance-circle.filled {
